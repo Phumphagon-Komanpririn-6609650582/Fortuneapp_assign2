@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sensors</string>
+    <string name="not_available">N/A</string>
+    <string name="accelerometer_na">ACCELEROMETER sensor is not available</string>
+    <string name="gravity_na">GRAVITY sensor is not available</string>
+    <string name="gyroscope_na">GYROSCOPE sensor is not available</string>
+    <string name="light_na">LIGHT sensor is not available</string>
+    <string name="linear_acceleration_na">LINEAR_ACCELERATION sensor is not available</string>
+    <string name="magnetic_field_na">MAGNETIC_FIELD sensor is not available</string>
+    <string name="orientation_na">ORIENTATION sensor is not available</string>
+    <string name="proximity_na">PROXIMITY sensor is not available</string>
+    <string name="rotation_vector_na">ROTATION_VECTOR sensor is not available</string>
+    <string name="ambient_temp_na">AMBIENT_TEMP is N/A</string>
+    <string name="shake_title">ข้อความ</string>
+    <string name="shake_message">โทรศัพท์มีการเขย่า</string>
+    <string name="shake_button">Close</string>
+    <string name="text_topic">เขย่ามือถือเพื่อรับคำทำนาย...</string>
+</resources>
